@@ -36,9 +36,7 @@ To test the model on new images:
 bash
 Copy code
 python predict.py --image_path <path_to_image>
-Results
-Confusion Matrix:
-Sample Predictions:
+
 Future Enhancements
 Deploy the model using Flask for real-time predictions.
 Explore Transfer Learning techniques for better performance.
